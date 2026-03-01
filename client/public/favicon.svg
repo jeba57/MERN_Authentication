@@ -1,0 +1,39 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Unique Brand Gradient -->
+  <defs>
+    <linearGradient id="brandGradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2F3A8F"/>  <!-- Deep Slate Blue -->
+      <stop offset="45%" stop-color="#5B4B8A"/> <!-- Muted Violet -->
+      <stop offset="75%" stop-color="#4FA3A5"/> <!-- Calm Teal -->
+      <stop offset="100%" stop-color="#E6B980"/> <!-- Soft Warm Light -->
+    </linearGradient>
+
+    <linearGradient id="innerSoft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F7F9FC"/>
+      <stop offset="100%" stop-color="#EDEFF5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Rounded Square -->
+  <rect x="10" y="10" width="200" height="200" rx="60" fill="url(#brandGradient)" />
+
+  <!-- Inner Circle -->
+  <circle cx="110" cy="110" r="72" fill="url(#innerSoft)" />
+
+  <!-- Inner Thin Ring -->
+  <circle cx="110" cy="110" r="60"
+          fill="none"
+          stroke="url(#brandGradient)"
+          stroke-width="3"
+          opacity="0.9"/>
+
+  <!-- Text -->
+  <text x="110" y="120" text-anchor="middle"
+        font-family="Brush Script MT, Pacifico, cursive"
+        font-size="42"
+        fill="url(#brandGradient)">
+    loggy
+  </text>
+
+</svg>
