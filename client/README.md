@@ -169,10 +169,11 @@ npm run dev
 
 ---
 
-## 🤝 Contribution
+## 🤝 Feedback
 
-Contributions, issues, and feature requests are welcome.
-Feel free to fork the repository and submit a pull request.
+Suggestions, feedback, and improvements are always welcome.
+Feel free to open an issue or connect with me regarding this project.
+
 
 ---
 
