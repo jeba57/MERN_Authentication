@@ -151,7 +151,7 @@ npm run dev
 
 ---
 
-## 🔧 Future Enhancements
+## 🔧 Future 
 
 * Role-based access control (RBAC)
 * OAuth integration (Google, GitHub)
