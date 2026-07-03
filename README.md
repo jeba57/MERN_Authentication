@@ -1,4 +1,4 @@
-# 🔐 MERN Authentication System
+# MERN Authentication System
 
 A production-ready authentication system built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js), designed with a focus on **security, scalability, and clean architecture**.
 
@@ -6,13 +6,13 @@ This project demonstrates industry-standard practices for implementing authentic
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This application enables users to register, authenticate, and access protected resources through a secure and seamless experience. It follows a modular backend structure and a modern frontend architecture using React and Vite.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Secure User Authentication**
 
@@ -41,7 +41,7 @@ This application enables users to register, authenticate, and access protected r
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -62,7 +62,7 @@ This application enables users to register, authenticate, and access protected r
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 MERN_Authentication/
@@ -85,7 +85,7 @@ MERN_Authentication/
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
